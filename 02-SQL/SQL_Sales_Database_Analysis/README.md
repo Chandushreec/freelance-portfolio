@@ -104,3 +104,29 @@ This project was created as a portfolio project to demonstrate practical SQL and
 ## Note
 
 The SQL scripts are intended to be used with MySQL. The database setup script should be run on a fresh database environment when recreating the project.
+
+## ANALYSIS RESULT
+
+### 1. Total Sales
+
+The total sales calculated from the order details and product prices is **291,600.00**.
+
+![Total Sales](screenshots/01.Total Sales.png)
+
+### 2. Sales by Product
+
+This analysis calculates total sales for each product and sorts the products from highest to lowest sales.
+
+![Sales by Product](screenshots/02.Sales by Product.png)
+
+### 3. Sales by Category
+
+This analysis compares total sales between product categories.
+
+![Sales by Category](screenshots/03.Sales by Category.png)
+
+### 4. Customer Spending
+
+This analysis calculates the total spending of customers based on completed orders.
+
+![Customer Spending](screenshots/04.Customer pending.png)

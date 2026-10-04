@@ -111,22 +111,22 @@ The SQL scripts are intended to be used with MySQL. The database setup script sh
 
 The total sales calculated from the order details and product prices is **291,600.00**.
 
-![Total Sales](screenshots/01.Total Sales.png)
+![Total Sales](screenshots/01.Total%20sales.png)
 
 ### 2. Sales by Product
 
 This analysis calculates total sales for each product and sorts the products from highest to lowest sales.
 
-![Sales by Product](screenshots/02.Sales by Product.png)
+![Sales by Product](screenshots/02.%20Sales%20by%20Product.png)
 
 ### 3. Sales by Category
 
 This analysis compares total sales between product categories.
 
-![Sales by Category](screenshots/03.Sales by Category.png)
+![Sales by Category](screenshots/03.%20Sales%20by%20Cateogory.png)
 
 ### 4. Customer Spending
 
 This analysis calculates the total spending of customers based on completed orders.
 
-![Customer Spending](screenshots/04.Customer pending.png)
+![Customer Spending](screenshots/04.%20Total%20spending%20By%20customer.png)
